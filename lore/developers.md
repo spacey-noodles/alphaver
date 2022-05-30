@@ -8,28 +8,42 @@ They are referred to as dev# or just simply #.
 | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- | 
 | dev0                    | dev1                    | dev2                    | dev3                    | dev4                    | dev5                    | dev6                    | 
 
+Things that are *italicized* are speculative. Everything has an explicit link to where it came from.
+
 ### dev0
-dev0 was mentioned in the video [Discovered](../videos/discovered.md), and in the description of [Developer preview](../videos/developer-preview.md), [Feature testing](../videos/feature-testing.md), [Presentation](../videos/presentation.md), and [Sunrise](../videos/sunrise.md).
+- Mentioned in the video [Discovered](../videos/discovered.md)
+- Dev leader (inferred from [Developer preview](../videos/developer-preview.md))
+- Wanted to put the Lilypad changes in Vanilla Minecraft, so made the dev team create a preview version ("Developer preview"). 
+- Added the unique chunk names ([Feature testing](../videos/feature-testing.md))
+- Refused to tell E3 the company name ([Presentation](../videos/presentation.md))
+- Wanted the Crab Nebula event to have some sort of in-game significance, not just cosmetic ([Sunrise](../videos/sunrise.md))
+- *Possibly antagonistic toward someone on the team* ([Presentation](../videos/presentation.md))
 
 ### dev1
-dev1 was seen on the website of [Internal footage 2](../videos/internal-footage-2.md).
+- Seen on the website of [Internal footage 2](../videos/internal-footage-2.md)
 
 ### dev2
-dev2 was seen in-game in the video [Sunrise](../videos/sunrise.md), and mentioned in the description of [Sunrise](../videos/sunrise.md).
-Persumably passed away.
+- Possibly dead, or otherwise not with the team anymore ([Sunrise](../videos/sunrise.md))
+- Proposed the Crab Nebula event with dev5 ([Sunrise](../videos/sunrise.md))
 
 ### dev3
-dev3 was mentioned in the description of [Presentation](../videos/presentation.md).  
-They created the OST album cover mentioned in [OST.rar](../resources/ost-rar.md).
+- On the art team ([Presentation](../videos/presentation.md))
+- Created the album art ([OST.rar](../resources/ost-rar.md))
+- Considered a former friend to someone on the dev team ([Presentation](../videos/presentation.md))
 
 ### dev4
-dev4 recorded [Feature testing](../videos/feature-testing.md).  
-They were seen in [Internal footage 3](../videos/internal-footage-3.md).
+- *One of the last devs to join the team* ([Feature testing](../videos/feature-testing.md))
+- Manged the Lilypad site and bug tracker page ([Feature testing](../videos/feature-testing.md))
+- Dev6 considered them to be a friend ([Internal footage 3](../videos/internal-footage-3.md))
 
 ### dev5
-dev5 was mentioned in the description of [Sunrise](../videos/sunrise.md).  
-They composed OST music found in [OST.rar](../resources/ost-rar.md).
+- Proposed the Crab Nebula event with dev2 ([Sunrise](../videos/sunrise.md))
+- Composed the music for the game ([OST.rar](../resources/ost-rar.md))
+
 
 ### dev6
-dev6 was mentioned in the description of [Entry point](../videos/entry-point.md) and [Version 13](../videos/version-13.md).  
-They recorded [Internal footage 1](../videos/internal-footage-1.md) and [Internal footage 3](../videos/internal-footage-3.md).
+- Explicitly broke the dev team rules at least once ([Internal footage 1](../videos/internal-footage-1.md))
+- Considered himself friends with 4 ([Internal footage 3](../videos/internal-footage-3.md))
+- *May have been kicked out of the dev team for doing things against the rules (such as entering worlds and recording himself doing it)— if this is the case, they don’t seem to view it as having done something wrong* (“Internal footage 2 [reupload]”; “Internal footage 1”)
+- While working on Minecraft, was working on the main game ([Internal footage 2](../videos/internal-footage-2.md))
+- Mentioned in the description of [Entry point](../videos/entry-point.md) and [Version 13](../videos/version-13.md)
